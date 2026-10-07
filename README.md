@@ -1,0 +1,61 @@
+Task 2: Data Visualization and Storytelling
+Objective
+Perform exploratory data analysis (EDA) and create meaningful visualizations to uncover patterns, trends, and insights from the dataset. Present findings through data storytelling using charts and graphs.
+
+Dataset
+Netflix Movies Detailed up to 2025
+
+The dataset contains information about Netflix movies, including title, release year, genres, ratings, popularity, vote count, budget, revenue, language, and country.
+
+Tools Used
+Python
+Pandas
+Matplotlib
+Seaborn
+Jupyter Notebook
+Data Visualization Process
+1. Data Understanding
+Explored dataset structure and features.
+Verified data quality before visualization.
+2. Data Analysis
+Analyzed movie distribution across years.
+Studied genre popularity.
+Examined ratings and vote averages.
+Investigated relationships between popularity, votes, budget, and revenue.
+3. Visualization Creation
+Generated multiple visualizations including:
+
+Movies Released Per Year
+Top 10 Movie Genres
+Rating Distribution
+Top 10 Most Popular Movies
+Revenue Distribution
+Budget vs Revenue Analysis
+Vote Average Distribution
+Language Distribution
+4. Storytelling and Insights
+Extracted meaningful business insights from visualizations and explained trends using data storytelling techniques.
+
+Key Insights
+Insight 1: Content Growth
+Netflix movie releases increased significantly over recent years, indicating continuous expansion of content production.
+
+Insight 2: Popular Genres
+Certain genres dominate the platform, reflecting audience preferences and content strategy.
+
+Insight 3: Ratings Distribution
+Most movies fall within a moderate rating range, while highly rated movies represent a smaller portion of the catalog.
+
+Insight 4: Budget and Revenue Relationship
+Movies with larger budgets generally tend to generate higher revenues, although exceptions exist.
+
+Insight 5: Language Diversity
+The platform contains content from multiple languages, highlighting Netflix's global reach.
+
+Files Included
+Original Dataset
+Visualization Notebook (.ipynb)
+Generated Charts
+README Documentation
+Conclusion
+Through data visualization and storytelling, meaningful insights were extracted from the Netflix Movies dataset. Visual analysis helped identify content trends, genre popularity, audience preferences, and financial relationships, demonstrating the importance of data visualization in decision-making and business intelligence.
